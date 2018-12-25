@@ -1,5 +1,5 @@
 {
-  "name": "css-loader",
+  "name": "@sanity/css-loader",
   "version": "0.28.11",
   "author": "Tobias Koppers @sokra",
   "license": "MIT",
@@ -17,7 +17,7 @@
     "css-selector-tokenizer": "^0.7.0",
     "cssnano": "^3.10.0",
     "icss-utils": "^2.1.0",
-    "loader-utils": "^1.0.2",
+    "loader-utils": "1.1.0",
     "lodash.camelcase": "^4.3.0",
     "object-assign": "^4.1.1",
     "postcss": "^5.0.6",
